@@ -7,11 +7,12 @@ We belive we could make the programmer community better by helping open sources 
 
 Bad Wolf developpement is currently contributing to the following project:
 
-- Webthings.io : by developping multiple addons;
+- [Webthings.io](https://webthings.io/) : by developping multiple addons;
 
 More projects will follow.
 
 ### Contacts
 
-If you want to join or ask question, you could reach us on our discord channel:
-[Link]https://discord.com/channels/945005636234641459/945006060698222662
+If you want to join, learn more or ask us questions, you can contact us on:
+- [Discord](https://discord.com/channels/945005636234641459/945006060698222662)
+- [Github](https://github.com/Bad-Wolf-developpement)
