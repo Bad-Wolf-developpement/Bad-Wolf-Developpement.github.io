@@ -1,6 +1,7 @@
 ## Welcome to Bad Wold Developpement
 
 Welcome to Bad Wold Developpement  
+  
 Bad Wolf developpment was created to allow contributors to learn and share coding by doing real life projects and getting help from each other. We believe we could make the programmer community better by contributing to open source projects, and helping the beginner programmer who will become better and more confident by getting help, helping others and contributing to real life project.
 
 ### Projects
