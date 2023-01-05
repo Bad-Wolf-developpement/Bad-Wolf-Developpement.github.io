@@ -9,7 +9,7 @@ Bad Wolf development is currently contributing to the following project:
 #### Webthings.io
 Developing multiple add-ons: [Webthings.io](https://webthings.io/)
 
-- Developping a webthings android kotlin library: [webthings-api-ktx](https://badwolfdev.studio/webthings-api-ktx);
+- Developping a webthings android kotlin library: [webthings-api-ktx](https://badwolfdev.studio/webthings-ktx);
 
 More projects will follow.
 
